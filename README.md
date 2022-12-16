@@ -1,5 +1,5 @@
 # DeepSuccess
-This repository contains the codes to run the DeepSuccess model for predicting group success and the group profile components in future.
+This repository contains codes to run the "DeepSuccess" model for predicting group success and group profile components in event based social networks (EBSN) such as Meetup.
 
 ## Setup
   + We require python 2.7 and a handful of other supporting libraries for running these codes. 
@@ -23,7 +23,7 @@ This repository contains the codes to run the DeepSuccess model for predicting g
   + Please run the deepsuccess.py using the following command:
     
     ```python deepsuccess.py```
-  + It trains the model and provide training and testing accuracies for group success as well as group profile components.
+  + It trains the "DeepSuccess" model and provides training and testing accuracies for group success as well as group profile components.
 
 ## Contact
   + For any query, please contact Soumajit Pramanik at soumajit[dot]pramanik[at]gmail[dot]com .
